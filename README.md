@@ -1,9 +1,9 @@
-Summary Dashboard Information
+# Summary Dashboard Information
 Overview
 A Summary Dashboard is a visual interface that consolidates and displays key metrics, data points, and performance indicators in a concise, easy-to-understand format. It provides a high-level overview of critical information, enabling stakeholders to monitor performance, identify trends, and make informed decisions quickly. Dashboards are widely used in business intelligence, project management, operations, and analytics to present real-time or near-real-time data.
 Key Features
 
-Data Visualization:
+# Data Visualization:
 
 Utilizes charts, graphs, gauges, and tables to represent data visually.
 Common visualization types include bar charts, line graphs, pie charts, heatmaps, and KPI cards.
